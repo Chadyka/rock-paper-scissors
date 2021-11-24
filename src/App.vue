@@ -57,6 +57,7 @@ export default {
       this.computer = "";
       this.playerScore = 0;
       this.computerScore = 0;
+      this.lastGameResult = "";
     },
     playGame() {
       const rand = Math.floor(Math.random() * 3);
