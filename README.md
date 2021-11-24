@@ -1,4 +1,4 @@
-# vue-canvas
+# rock-paper-scissors
 
 ## Project setup
 ```
